@@ -1,0 +1,19 @@
+- name: Zhihu
+  url: http://zhihu.com/people/liukangxu
+  class: icon-zhihu
+
+- name: Twitter
+  url: http://twitter.com/liukangxu
+  class: icon-twitter
+
+- name: GitHub
+  url: http://github.com/liukangxu
+  class: icon-github
+
+- name: Linkedin
+  url: http://www.linkedin.com/in/liukangxu
+  class: icon-linkedin
+
+- name: E-Mail
+  url: mailto:liukangxu1996@gmail.com
+  class: icon-mail
